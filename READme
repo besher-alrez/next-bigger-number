@@ -1,0 +1,4 @@
+git clone https://github.com/besher-alrez/next-bigger-number.git
+./gradlew.bat stage
+heroku local web
+http://localhost:8080/task?num=4243
